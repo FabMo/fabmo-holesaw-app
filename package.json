@@ -1,0 +1,10 @@
+{
+	"name":"HoleCutter",
+	"main":"./index.html",
+	"icon":"icon.png",
+	"icon_color":"blue",
+	"version":"0.0.1",
+	"author":"Jonathan Ward",
+	"website":"http://github.com/FabMo/fabmo-holecutter-app",
+	"description":"HoleCutter"
+}
